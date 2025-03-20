@@ -1,0 +1,4 @@
+TEXTO CORPO
+===========
+TEXTO RODAPÉ
+===========
